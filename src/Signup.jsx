@@ -72,7 +72,6 @@ const Signup = () => {
 							className="w-full px-4 py-2 rounded bg-[#2a2a35] text-white border border-gray-600">
 							<option value="user">Customer</option>
 							<option value="receptionist">Manager</option>
-							<option value="admin">Admin</option>
 						</select>
 					</div>
 
